@@ -1,0 +1,7 @@
+Completed orders: 
+BurgerOrder{numHamburgers=3, numCheeseburgers=15, numVeggieburgers=4, numSodas=10, orderToGo=false, orderNum=1}
+
+Remaining orders:
+BurgerOrder{numHamburgers=10, numCheeseburgers=10, numVeggieburgers=3, numSodas=4, orderToGo=true, orderNum=2}
+BurgerOrder{numHamburgers=1, numCheeseburgers=1, numVeggieburgers=1, numSodas=2, orderToGo=false, orderNum=3}
+BurgerOrder{numHamburgers=2433, numCheeseburgers=123, numVeggieburgers=24, numSodas=32, orderToGo=true, orderNum=4}
